@@ -1,0 +1,4 @@
+1,Dairy Milk,50,100
+2,MilkyBar,60,50
+3,Cake,50,40
+4,JimJam,60,100

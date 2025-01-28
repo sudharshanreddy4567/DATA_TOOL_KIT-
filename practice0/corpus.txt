@@ -1,0 +1,20 @@
+In data science, a corpus is a large collection of authentic, naturally occurring language data, such as written text or audio, that is organized into datasets. Corpora can be used to study language and language use, and are essential for training machine learning models. 
+
+Subex
+What is a corpus in NLP? - Subex
+30 Sept 2023 — A corpus is a collection of authentic text or audio organized into datasets. Authentic here means text written or audio spoken by a native of the language or dialect. A corpus can be made up of everything from newspapers, novels, recipes, radio broadcasts to television shows, movies, and tweets.
+
+sciencedirect.com
+Corpus Analysis - an overview | ScienceDirect Topics
+By definition, a corpus contains a large amount of naturally occurring language data and therefore becomes an ideal data source for investigating language and language use. It is not uncommon now for a study of syntax or semantics to cite example sentences collected from natural corpora.
+
+SingleStore
+AI’s Secret Weapon: The Data Corpus
+6 Jun 2017
+
+oreilly.com
+What is a corpus? - Python Natural Language Processing [Book]
+In layman's terms, you can say that a large collection of data is called corpus. So, more formally and technically, corpus can be defined as follows: Corpus is a collection of written or spoken natural language material, stored on computer, and used to find out how language is used.
+Corpora can be generated from many sources, including:
+Social networks, Google and Apple app stores, Amazon marketplaces, Tweets, Movies, Television shows, and Newspapers. 
+Corpora can be searched by a computer using specialized software. For example, in Python Natural Language Processing, a corpus can be stored on a computer and used to find out how language is used.
